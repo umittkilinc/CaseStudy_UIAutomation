@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"d055af07-41ac-49dc-a3f1-c01a5748c9a7","feature":"UI Automation Case Study","scenario":"Assign Session","start":1674428914956,"group":13,"content":"","tags":"","end":1674428962929,"className":"passed"},{"id":"db1a9266-9687-4439-a301-cfadfb177e8e","feature":"UI Automation Case Study","scenario":"Completion Of The Testing Process","start":1674428914955,"group":14,"content":"","tags":"","end":1674428953747,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":13,"content":"Thread[TestNG-PoolService-0,5,main]"},{"id":14,"content":"Thread[TestNG-PoolService-1,5,main]"}]);
+});
